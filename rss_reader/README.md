@@ -1,5 +1,11 @@
 # rss_reader
 
+## install
+https://docs.flutter.dev/get-started/install/windows#windows-setup
+
+
+
+## other
 A new Flutter project.
 
 ## Getting Started
